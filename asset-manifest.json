@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.aed321be.js",
-    "index.html": "/index.html",
-    "main.aed321be.js.map": "/static/js/main.aed321be.js.map"
+    "main.js": "/CA_Appointment-Planner/static/js/main.aed321be.js",
+    "index.html": "/CA_Appointment-Planner/index.html",
+    "main.aed321be.js.map": "/CA_Appointment-Planner/static/js/main.aed321be.js.map"
   },
   "entrypoints": [
     "static/js/main.aed321be.js"
